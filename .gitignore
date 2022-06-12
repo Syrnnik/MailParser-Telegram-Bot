@@ -1,0 +1,15 @@
+# ZIP archives
+*.zip
+
+# Config files
+*.ini
+
+# IDE configs
+__pycache__/
+.vscode/
+
+# Databases
+*.db
+
+# Test scripts
+test.*
